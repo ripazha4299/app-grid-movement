@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.grids{
+  border: 1px solid black;
+  height: 620px;
+  width: 620px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.grid{
+  height:50px;
+  width:50px;
+  border: 1px solid black;
+  margin: 5px;
+}
+.blocks{
+  position: absolute;
+  background-color: aquamarine;
+}
+#boxPrime{
+  border: solid 1px black;
+  height: 210px;
+  width: 210px;
+  position: absolute;
+  z-index: 9;
+  display: none;
+}
+.opacity{
+  opacity: 0.5;
+}
