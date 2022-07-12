@@ -1,3 +1,7 @@
+# About
+Basic app movement logic in a grid
+Check the video demo: https://github.com/ripazha4299/new-app/blob/master/video1075302802_Trim.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
