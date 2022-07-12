@@ -1,6 +1,8 @@
 # About
 Basic app movement logic in a grid
 Check the video demo: https://github.com/ripazha4299/new-app/blob/master/video1075302802_Trim.mp4
+![ezgif-4-cdcd257e19](https://user-images.githubusercontent.com/42605275/178434332-158ee099-531f-4cd8-88c6-a0d82185c579.gif)
+
 
 # Getting Started with Create React App
 
